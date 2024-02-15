@@ -4,7 +4,6 @@
   "displayName": "gitPackage",
   "description": "This is an example git package",
   "unity": "2020.3",
-  "unityRelease": "39f1",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
