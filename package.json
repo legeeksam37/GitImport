@@ -1,6 +1,6 @@
 {
   "name": "com.manzatest.gitpackage",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "displayName": "gitPackage",
   "description": "This is an example git package",
   "unity": "2020.3",
